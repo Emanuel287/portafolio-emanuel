@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://Akaringo101.github.io/mi-portafolio",
+  "homepage": "https://emanuel287.github.io/portafolio-emanuel/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
