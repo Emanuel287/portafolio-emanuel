@@ -19,7 +19,7 @@ export default function Proyectos() {
     { 
       title: "Laberinto", 
       img: "/PortafolioEmanuel/Laberinto.jpg", 
-      desc: "Administración de canales suscriptos, cuenta con las opciones para agregar, consultar y desuscribirse",
+      desc: "Laberinto",
       tecnologias: ["Java"],
       imgPosition: "object-[center_20%]",
       repoLink: "https://github.com/Emanuel287/Trabajos"
