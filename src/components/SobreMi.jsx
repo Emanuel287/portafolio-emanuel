@@ -11,7 +11,7 @@ export default function SobreMi() {
         
         {/* Imagen en la esquina inferior derecha */}
         <img
-          src="/PortafolioEmanuel/Munch.jpg"
+          src="/portafolio-emanuel/Munch.jpg"
           alt="Munch"
           className="absolute bottom-4 right-4 w-36 opacity-90" //w - # es el tamaño de la imagen
         />

@@ -2,7 +2,7 @@ export default function Proyectos() {
   const proyectos = [
     { 
       title: "Proyecto Pokémon", 
-      img: "/PortafolioEmanuel/Pokemon.jpg", 
+      img: "/portafolio-emanuel/Pokemon.jpg", 
       desc: "Una simulación de combate simple en la terminal del famoso juego de Pokémon",
       tecnologias: ["Java"],
       imgPosition: "object-center",
@@ -10,7 +10,7 @@ export default function Proyectos() {
     },
     { 
       title: "Tetris", 
-      img: "/PortafolioEmanuel/tetris.jpg", 
+      img: "/portafolio-emanuel/tetris.jpg", 
       desc: "Una versión clásica del Tetris para práctica.",
       tecnologias: ["Java"],
       imgPosition: "object-bottom",
@@ -18,7 +18,7 @@ export default function Proyectos() {
     },
     { 
       title: "Laberinto", 
-      img: "/PortafolioEmanuel/Laberinto.jpg", 
+      img: "/portafolio-emanuel/Laberinto.jpg", 
       desc: "Laberinto",
       tecnologias: ["Java"],
       imgPosition: "object-[center_20%]",

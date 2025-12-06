@@ -4,14 +4,14 @@ export default function Header() {
      
       {/* Imagen de fondo */}
       <img
-        src="/PortafolioEmanuel/matematicas.jpg"
+        src="/portafolio-emanuel/matematicas.jpg"
         className="absolute inset-0 w-full h-full object-cover object-top"
       />
 
       {/* Contenido */}
       <div className="relative z-10">
         <img
-          src="/PortafolioEmanuel/Perfil.jpg"
+          src="/portafolio-emanuel/Perfil.jpg"
           className="w-40 h-40 rounded-full mx-auto border-4 border-white shadow-softpink"
         />
 
